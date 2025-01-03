@@ -14,7 +14,7 @@ def random_line(filename):
 
 #assign file to file_name variable to use when needed
 #constants should be capitolized
-FILE_NAME = "question_bank"
+FILE_NAME = "question_bank.txt"
 
 #use the file name  to locate the file we are taking from
 #prompt for answer(input) to the random questions
